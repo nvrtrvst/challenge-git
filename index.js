@@ -1,3 +1,1 @@
-;
->
-, namaku adalah Reza Muhammad Akbar
+namaku adalah Reza Muhammad Akbar
